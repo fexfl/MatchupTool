@@ -18,3 +18,6 @@ feoh_matchup_tool/img/*.png
 
 # Matchup files
 feoh_matchup_tool/data/*.json
+
+# Executables
+*.exe
